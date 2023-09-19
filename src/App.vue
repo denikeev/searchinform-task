@@ -1,47 +1,55 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+import { ref } from 'vue';
+import fakeUsers from './fakeUsers.json';
+import getFakeUsers, { type User } from './getFakeUsers.js';
+
+// console.log(getFakeUsers(100));
+const selectedUser = ref<null | User>(null);
+
+const selectUser = (user: User) => {
+  selectedUser.value = user;
+}
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-    </div>
-  </header>
-
-  <main>
-    <TheWelcome />
-  </main>
+  <ul class="users-list">
+    <li v-for="user in fakeUsers" :key="user.id">
+      <button @click="selectUser(user)" class="user-list__item" type="button">
+        <img alt="person" src="./assets/person-fill.svg" width="24" height="24" />
+        <span>{{ user.name }}</span>
+      </button>
+    </li>
+  </ul>
+  <div v-if="selectedUser" class="user-info">
+    {{ selectedUser.name }}
+    <br>
+    {{ selectedUser.company }}
+  </div>
 </template>
 
-<style scoped>
-header {
-  line-height: 1.5;
+<style lang="scss">
+.users-list {
+  height: 100%;
+  list-style: none;
+  overflow-y: scroll;
 }
 
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
+.user-list__item {
+  display: flex;
+  align-items: center;
+  padding: 4px;
 
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
+  background: none;
+  border: none;
+  cursor: pointer;
+
+
+  img {
+    margin-right: 4px;
   }
 
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
+  &:hover span {
+    text-decoration: underline;
   }
 }
 </style>
