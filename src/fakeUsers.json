@@ -1,902 +1,902 @@
 [
     {
         "id": "1",
-        "name": "Tobin96",
-        "company": "Mitchell Group",
-        "jobTitle": "National Mobility Designer",
-        "department": "Automotive",
-        "activeStatus": true,
-        "avatarPath": "secondPath"
+        "name": "Sigmund.Quitzon",
+        "company": "Hettinger Inc",
+        "jobTitle": "Regional Program Executive",
+        "department": "Computers",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "2",
-        "name": "Kiarra85",
-        "company": "Smith - Bechtelar",
-        "jobTitle": "Chief Division Supervisor",
-        "department": "Music",
+        "name": "Emelie26",
+        "company": "Armstrong, Flatley and Ortiz",
+        "jobTitle": "Chief Tactics Technician",
+        "department": "Sports",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "3",
-        "name": "Verona.Skiles",
-        "company": "Sauer, Mertz and Schiller",
-        "jobTitle": "Regional Usability Developer",
-        "department": "Beauty",
+        "name": "Jazlyn.Ernser",
+        "company": "Dickinson, Stoltenberg and Powlowski",
+        "jobTitle": "Global Implementation Producer",
+        "department": "Tools",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "4",
-        "name": "Gerald.Sanford",
-        "company": "Hintz - Mertz",
-        "jobTitle": "Direct Solutions Manager",
-        "department": "Beauty",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Marty22",
+        "company": "Trantow, Walsh and Little",
+        "jobTitle": "Corporate Branding Strategist",
+        "department": "Baby",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "5",
-        "name": "Gerardo_Windler",
-        "company": "Barrows - Dickens",
-        "jobTitle": "Principal Accountability Producer",
-        "department": "Sports",
+        "name": "Jabari.OConner15",
+        "company": "Altenwerth, Cormier and Graham",
+        "jobTitle": "National Response Director",
+        "department": "Garden",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "6",
-        "name": "Jabari.Bergnaum",
-        "company": "Walter - Fadel",
-        "jobTitle": "Central Accounts Developer",
-        "department": "Books",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Nicola_Wyman23",
+        "company": "Feest Inc",
+        "jobTitle": "Principal Solutions Producer",
+        "department": "Jewelery",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "7",
-        "name": "Meagan.Pouros",
-        "company": "Leuschke - Hyatt",
-        "jobTitle": "Lead Integration Liaison",
-        "department": "Automotive",
-        "activeStatus": false,
-        "avatarPath": "secondPath"
+        "name": "Jackeline42",
+        "company": "Huel and Sons",
+        "jobTitle": "Corporate Assurance Executive",
+        "department": "Electronics",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "8",
-        "name": "Darron.Hauck41",
-        "company": "Toy, Runolfsdottir and Ortiz",
-        "jobTitle": "Senior Interactions Representative",
-        "department": "Industrial",
+        "name": "Cora.Ankunding",
+        "company": "Kuhlman Inc",
+        "jobTitle": "Future Markets Officer",
+        "department": "Jewelery",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "9",
-        "name": "Carmela73",
-        "company": "Gulgowski and Sons",
-        "jobTitle": "Product Implementation Liaison",
-        "department": "Music",
+        "name": "Sven34",
+        "company": "Sipes Group",
+        "jobTitle": "District Brand Assistant",
+        "department": "Clothing",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "10",
-        "name": "Rey_Mraz",
-        "company": "Casper - O'Hara",
-        "jobTitle": "Dynamic Metrics Orchestrator",
-        "department": "Computers",
-        "activeStatus": true,
-        "avatarPath": "secondPath"
+        "name": "Makenzie.Lindgren",
+        "company": "Heidenreich LLC",
+        "jobTitle": "International Response Administrator",
+        "department": "Home",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "11",
-        "name": "Emie14",
-        "company": "White LLC",
-        "jobTitle": "Senior Operations Architect",
-        "department": "Beauty",
-        "activeStatus": false,
-        "avatarPath": "secondPath"
+        "name": "Alessandra_Ernser27",
+        "company": "Olson - Jast",
+        "jobTitle": "Regional Operations Facilitator",
+        "department": "Automotive",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "12",
-        "name": "Dario6",
-        "company": "Doyle Inc",
-        "jobTitle": "Customer Assurance Director",
-        "department": "Jewelery",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Adrain40",
+        "company": "Mraz, Weimann and Jast",
+        "jobTitle": "Corporate Integration Executive",
+        "department": "Grocery",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "13",
-        "name": "Meagan.Langworth",
-        "company": "Oberbrunner - Bailey",
-        "jobTitle": "Chief Quality Director",
-        "department": "Toys",
+        "name": "Graham15",
+        "company": "Satterfield Group",
+        "jobTitle": "Customer Infrastructure Consultant",
+        "department": "Sports",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "14",
-        "name": "Lonzo_Quigley55",
-        "company": "Schuster, Stanton and Collins",
-        "jobTitle": "District Tactics Coordinator",
-        "department": "Health",
+        "name": "Henriette81",
+        "company": "Bayer - Welch",
+        "jobTitle": "Principal Web Architect",
+        "department": "Games",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "15",
-        "name": "Carlos_Hagenes",
-        "company": "Raynor Inc",
-        "jobTitle": "Principal Mobility Planner",
-        "department": "Computers",
-        "activeStatus": false,
-        "avatarPath": "secondPath"
+        "name": "Domingo.Schulist93",
+        "company": "Carroll - Langworth",
+        "jobTitle": "Chief Functionality Representative",
+        "department": "Kids",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "16",
-        "name": "Alexanne27",
-        "company": "Koss - Keebler",
-        "jobTitle": "Forward Usability Manager",
-        "department": "Industrial",
+        "name": "Bernadine41",
+        "company": "Fritsch and Sons",
+        "jobTitle": "Product Security Developer",
+        "department": "Sports",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "17",
-        "name": "Erick52",
-        "company": "Heathcote, Corkery and Spencer",
-        "jobTitle": "Global Infrastructure Technician",
-        "department": "Garden",
-        "activeStatus": true,
-        "avatarPath": "secondPath"
+        "name": "Frances_Schneider95",
+        "company": "Emard, Harris and Medhurst",
+        "jobTitle": "Direct Configuration Engineer",
+        "department": "Clothing",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "18",
-        "name": "Zora65",
-        "company": "Satterfield - Bailey",
-        "jobTitle": "Chief Metrics Coordinator",
-        "department": "Toys",
+        "name": "Icie.Kuhlman15",
+        "company": "Cremin Group",
+        "jobTitle": "Senior Factors Strategist",
+        "department": "Sports",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "19",
-        "name": "Branson_Cartwright7",
-        "company": "Klocko and Sons",
-        "jobTitle": "Senior Accounts Developer",
-        "department": "Home",
-        "activeStatus": true,
-        "avatarPath": "secondPath"
+        "name": "Imogene90",
+        "company": "Reinger LLC",
+        "jobTitle": "Customer Marketing Coordinator",
+        "department": "Garden",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "20",
-        "name": "Bart20",
-        "company": "Auer, Kulas and Raynor",
-        "jobTitle": "Regional Data Analyst",
-        "department": "Health",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Elvie.Bartell",
+        "company": "Kling, Denesik and Ebert",
+        "jobTitle": "Chief Branding Representative",
+        "department": "Kids",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "21",
-        "name": "Kirstin_Lynch19",
-        "company": "Rosenbaum, Bruen and Schaden",
-        "jobTitle": "Regional Tactics Strategist",
-        "department": "Sports",
+        "name": "Kennith_Lehner",
+        "company": "Oberbrunner, Bradtke and Simonis",
+        "jobTitle": "Direct Creative Associate",
+        "department": "Grocery",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "22",
-        "name": "Edwardo28",
-        "company": "Boyle Inc",
-        "jobTitle": "Chief Research Architect",
-        "department": "Grocery",
-        "activeStatus": true,
-        "avatarPath": "secondPath"
+        "name": "Verlie.Reinger",
+        "company": "Nienow Inc",
+        "jobTitle": "Product Functionality Strategist",
+        "department": "Tools",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "23",
-        "name": "Ladarius49",
-        "company": "Koss - Wilkinson",
-        "jobTitle": "Future Program Designer",
-        "department": "Toys",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Retta25",
+        "company": "Collins and Sons",
+        "jobTitle": "Investor Identity Technician",
+        "department": "Jewelery",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "24",
-        "name": "Guy_Lynch",
-        "company": "Reynolds, Koepp and Hamill",
-        "jobTitle": "Chief Tactics Consultant",
-        "department": "Books",
-        "activeStatus": false,
-        "avatarPath": "firstPath"
+        "name": "Bernice_Hoeger",
+        "company": "Murray - Kessler",
+        "jobTitle": "Principal Brand Administrator",
+        "department": "Clothing",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "25",
-        "name": "Gilda_Hagenes",
-        "company": "Crona - Hessel",
-        "jobTitle": "Principal Paradigm Orchestrator",
-        "department": "Kids",
+        "name": "Burley37",
+        "company": "Hand, Dickinson and Stamm",
+        "jobTitle": "Internal Marketing Specialist",
+        "department": "Health",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "26",
-        "name": "Francesco_Klocko29",
-        "company": "Yundt Inc",
-        "jobTitle": "Human Interactions Strategist",
-        "department": "Games",
+        "name": "Alfredo.Franecki",
+        "company": "Auer Inc",
+        "jobTitle": "International Infrastructure Designer",
+        "department": "Clothing",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "27",
-        "name": "William.Cormier86",
-        "company": "Legros, Schmidt and Hilll",
-        "jobTitle": "Internal Web Producer",
-        "department": "Clothing",
-        "activeStatus": false,
-        "avatarPath": "firstPath"
+        "name": "Lane_Abernathy",
+        "company": "Mueller LLC",
+        "jobTitle": "National Directives Director",
+        "department": "Outdoors",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "28",
-        "name": "Kieran37",
-        "company": "DuBuque, Pouros and Borer",
-        "jobTitle": "Senior Paradigm Administrator",
-        "department": "Tools",
+        "name": "Carolyn_Homenick",
+        "company": "Christiansen - Krajcik",
+        "jobTitle": "Chief Functionality Specialist",
+        "department": "Health",
         "activeStatus": true,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "29",
-        "name": "Ebony.Wintheiser31",
-        "company": "Nikolaus, Cremin and Nader",
-        "jobTitle": "Future Communications Liaison",
-        "department": "Sports",
+        "name": "Ethan.Satterfield51",
+        "company": "Cummerata Inc",
+        "jobTitle": "International Integration Developer",
+        "department": "Baby",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "30",
-        "name": "Sabryna.Kshlerin84",
-        "company": "Jakubowski Group",
-        "jobTitle": "Global Markets Officer",
-        "department": "Beauty",
+        "name": "Kip_Wiegand37",
+        "company": "Corkery, Witting and Wuckert",
+        "jobTitle": "Chief Assurance Producer",
+        "department": "Toys",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "31",
-        "name": "Edmond.Kihn73",
-        "company": "Stokes Group",
-        "jobTitle": "Direct Data Supervisor",
-        "department": "Electronics",
-        "activeStatus": false,
-        "avatarPath": "firstPath"
+        "name": "Cortney.Feeney",
+        "company": "Koch - Runolfsson",
+        "jobTitle": "Legacy Accountability Architect",
+        "department": "Books",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "32",
-        "name": "Alessandra.Schaefer",
-        "company": "Spinka Group",
-        "jobTitle": "Legacy Research Planner",
-        "department": "Beauty",
+        "name": "Dion32",
+        "company": "Fritsch, Murazik and Treutel",
+        "jobTitle": "Principal Implementation Representative",
+        "department": "Electronics",
         "activeStatus": true,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "33",
-        "name": "Ilene_Crona-Harris",
-        "company": "Kerluke Group",
-        "jobTitle": "International Paradigm Assistant",
-        "department": "Toys",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Cordelia.Schroeder69",
+        "company": "Douglas, Kuphal and O'Kon",
+        "jobTitle": "Dynamic Identity Supervisor",
+        "department": "Grocery",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "34",
-        "name": "Rosetta48",
-        "company": "Lubowitz LLC",
-        "jobTitle": "Central Markets Strategist",
-        "department": "Books",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Eleanora.Wyman",
+        "company": "Haag, Robel and Hills",
+        "jobTitle": "Internal Web Developer",
+        "department": "Grocery",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "35",
-        "name": "Dorothy.Leffler",
-        "company": "Beier - Hoppe",
-        "jobTitle": "Central Accounts Officer",
-        "department": "Kids",
-        "activeStatus": false,
-        "avatarPath": "firstPath"
+        "name": "Connor81",
+        "company": "Walsh Inc",
+        "jobTitle": "Corporate Communications Liaison",
+        "department": "Music",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "36",
-        "name": "Ashly_Jerde25",
-        "company": "Hoppe - Cummings",
-        "jobTitle": "Internal Infrastructure Agent",
-        "department": "Shoes",
-        "activeStatus": false,
-        "avatarPath": "firstPath"
+        "name": "Waino.Corwin",
+        "company": "Hackett - Mann",
+        "jobTitle": "Product Brand Assistant",
+        "department": "Grocery",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "37",
-        "name": "Kaitlyn_Terry",
-        "company": "Robel - O'Reilly",
-        "jobTitle": "Senior Configuration Supervisor",
-        "department": "Games",
-        "activeStatus": false,
-        "avatarPath": "firstPath"
+        "name": "Natalia42",
+        "company": "Klein - Douglas",
+        "jobTitle": "Senior Integration Strategist",
+        "department": "Garden",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "38",
-        "name": "Zaria35",
-        "company": "Stokes, Stroman and Bergnaum",
-        "jobTitle": "Product Operations Facilitator",
-        "department": "Health",
-        "activeStatus": false,
-        "avatarPath": "firstPath"
+        "name": "Zaria_Goyette",
+        "company": "King - Hilpert",
+        "jobTitle": "Principal Applications Assistant",
+        "department": "Industrial",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "39",
-        "name": "Carlee.Bergnaum",
-        "company": "Kihn - Schumm",
-        "jobTitle": "Internal Brand Associate",
-        "department": "Tools",
+        "name": "Aubree.Bradtke",
+        "company": "Senger - Hahn",
+        "jobTitle": "Corporate Directives Developer",
+        "department": "Clothing",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "40",
-        "name": "Jaiden10",
-        "company": "Kihn, Glover and Witting",
-        "jobTitle": "Principal Security Designer",
-        "department": "Industrial",
-        "activeStatus": false,
-        "avatarPath": "secondPath"
+        "name": "Laney_Williamson",
+        "company": "Lynch - Kessler",
+        "jobTitle": "Internal Communications Specialist",
+        "department": "Automotive",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "41",
-        "name": "Charity_McKenzie56",
-        "company": "Lemke and Sons",
-        "jobTitle": "Lead Markets Assistant",
-        "department": "Computers",
+        "name": "Amalia95",
+        "company": "Upton, Walsh and Wiegand",
+        "jobTitle": "Investor Division Assistant",
+        "department": "Movies",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "42",
-        "name": "Ruthie82",
-        "company": "Fahey, O'Keefe and Rau",
-        "jobTitle": "Future Intranet Producer",
-        "department": "Games",
-        "activeStatus": true,
-        "avatarPath": "secondPath"
+        "name": "Murray_Hermiston15",
+        "company": "Sipes Group",
+        "jobTitle": "Central Metrics Assistant",
+        "department": "Electronics",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "43",
-        "name": "Lia.Hudson32",
-        "company": "Cassin, Kuphal and O'Conner",
-        "jobTitle": "Corporate Accounts Architect",
-        "department": "Health",
+        "name": "Billy.Erdman",
+        "company": "Jacobson Inc",
+        "jobTitle": "Chief Assurance Assistant",
+        "department": "Games",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "44",
-        "name": "Korbin_Predovic79",
-        "company": "Schaden LLC",
-        "jobTitle": "Product Web Associate",
-        "department": "Industrial",
+        "name": "Brielle_Stanton",
+        "company": "Schuster, Larkin and Abernathy",
+        "jobTitle": "Regional Security Consultant",
+        "department": "Computers",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "45",
-        "name": "Janis.Langworth",
-        "company": "Abernathy - Hauck",
-        "jobTitle": "Future Operations Consultant",
-        "department": "Home",
+        "name": "Samara_Kshlerin50",
+        "company": "Wolf - Mosciski",
+        "jobTitle": "Direct Marketing Technician",
+        "department": "Baby",
         "activeStatus": true,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "46",
-        "name": "Fay.McCullough",
-        "company": "Windler - Flatley",
-        "jobTitle": "Central Quality Assistant",
-        "department": "Home",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Edmund_Walter81",
+        "company": "Sauer - O'Conner",
+        "jobTitle": "Dynamic Optimization Facilitator",
+        "department": "Jewelery",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "47",
-        "name": "Noe_Greenholt",
-        "company": "Torphy - Mertz",
-        "jobTitle": "Forward Identity Technician",
+        "name": "Mossie.Mosciski39",
+        "company": "Littel - Lakin",
+        "jobTitle": "Chief Paradigm Officer",
         "department": "Beauty",
-        "activeStatus": true,
-        "avatarPath": "secondPath"
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "48",
-        "name": "Callie47",
-        "company": "Schuppe, Gusikowski and Harris",
-        "jobTitle": "Dynamic Optimization Architect",
-        "department": "Music",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Jody66",
+        "company": "Denesik, Cartwright and Klocko",
+        "jobTitle": "Global Quality Analyst",
+        "department": "Home",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "49",
-        "name": "Brandon.Ferry79",
-        "company": "Satterfield - Reinger",
-        "jobTitle": "Internal Division Analyst",
-        "department": "Movies",
+        "name": "Arielle_Mante59",
+        "company": "Pfeffer, Cruickshank and Carroll",
+        "jobTitle": "Customer Accountability Planner",
+        "department": "Tools",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "50",
-        "name": "Maribel_Stark77",
-        "company": "Jenkins Inc",
-        "jobTitle": "Principal Implementation Representative",
-        "department": "Health",
+        "name": "Joel24",
+        "company": "Little, Cummerata and Rowe",
+        "jobTitle": "Lead Response Director",
+        "department": "Outdoors",
         "activeStatus": true,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "51",
-        "name": "Nettie64",
-        "company": "Barton and Sons",
-        "jobTitle": "District Program Orchestrator",
-        "department": "Music",
+        "name": "Violette65",
+        "company": "Block - Parker",
+        "jobTitle": "National Functionality Engineer",
+        "department": "Movies",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "52",
-        "name": "Buster.Gottlieb28",
-        "company": "Mraz - Shields",
-        "jobTitle": "District Program Representative",
-        "department": "Books",
+        "name": "Dominic.Reichert",
+        "company": "Adams - Lockman",
+        "jobTitle": "Principal Response Manager",
+        "department": "Toys",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "53",
-        "name": "Richard_Osinski76",
-        "company": "Windler Group",
-        "jobTitle": "Investor Identity Assistant",
-        "department": "Health",
+        "name": "Blaze.Kshlerin",
+        "company": "Swaniawski - Schoen",
+        "jobTitle": "Future Communications Representative",
+        "department": "Clothing",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "54",
-        "name": "Kenna5",
-        "company": "Strosin, Kilback and Blick",
-        "jobTitle": "Principal Mobility Supervisor",
-        "department": "Clothing",
+        "name": "Declan_Padberg",
+        "company": "Bauch, Schamberger and Koelpin",
+        "jobTitle": "Senior Operations Assistant",
+        "department": "Kids",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "55",
-        "name": "Cary_Collier",
-        "company": "Jenkins, Mitchell and Muller",
-        "jobTitle": "Direct Interactions Director",
-        "department": "Automotive",
+        "name": "Marcelina67",
+        "company": "Thompson - Franey",
+        "jobTitle": "Senior Metrics Planner",
+        "department": "Tools",
         "activeStatus": true,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "56",
-        "name": "Elnora32",
-        "company": "Adams - Roob",
-        "jobTitle": "District Usability Officer",
-        "department": "Shoes",
+        "name": "Esther_Gottlieb",
+        "company": "Lebsack - Skiles",
+        "jobTitle": "Legacy Directives Consultant",
+        "department": "Computers",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "57",
-        "name": "Daphnee69",
-        "company": "Ritchie Inc",
-        "jobTitle": "Central Identity Technician",
+        "name": "Destiny73",
+        "company": "Smitham Inc",
+        "jobTitle": "Forward Division Liaison",
         "department": "Movies",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "activeStatus": false,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "58",
-        "name": "Elwyn.Batz",
-        "company": "Wilkinson, Leffler and Spinka",
-        "jobTitle": "Dynamic Branding Representative",
+        "name": "Vickie.Klein72",
+        "company": "Armstrong, Borer and Raynor",
+        "jobTitle": "Global Assurance Supervisor",
         "department": "Home",
-        "activeStatus": false,
-        "avatarPath": "secondPath"
+        "activeStatus": true,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "59",
-        "name": "Verona.Dooley",
-        "company": "Ward - Auer",
-        "jobTitle": "Investor Branding Planner",
-        "department": "Electronics",
-        "activeStatus": false,
-        "avatarPath": "firstPath"
+        "name": "Ernestina_Graham",
+        "company": "Rice, Borer and Halvorson",
+        "jobTitle": "District Identity Strategist",
+        "department": "Home",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "60",
-        "name": "Madonna67",
-        "company": "Dach - Stark",
-        "jobTitle": "Corporate Markets Consultant",
+        "name": "Gennaro.Schuppe9",
+        "company": "Armstrong Inc",
+        "jobTitle": "District Web Strategist",
         "department": "Music",
         "activeStatus": true,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "61",
-        "name": "Agustin94",
-        "company": "Predovic, Zboncak and Waters",
-        "jobTitle": "Principal Usability Strategist",
-        "department": "Outdoors",
+        "name": "Daija.Cassin",
+        "company": "Braun and Sons",
+        "jobTitle": "Chief Intranet Designer",
+        "department": "Grocery",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "62",
-        "name": "Serenity93",
-        "company": "Schowalter LLC",
-        "jobTitle": "Investor Intranet Designer",
-        "department": "Tools",
+        "name": "Lacy.Kohler33",
+        "company": "Cronin, Dach and Morissette",
+        "jobTitle": "Human Integration Administrator",
+        "department": "Books",
         "activeStatus": true,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "63",
-        "name": "Cierra41",
-        "company": "Greenfelder and Sons",
-        "jobTitle": "International Functionality Strategist",
-        "department": "Garden",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Antonina_Schneider50",
+        "company": "Hills LLC",
+        "jobTitle": "Principal Branding Liaison",
+        "department": "Home",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "64",
-        "name": "Conor.Koch6",
-        "company": "Boyle, Douglas and Bayer",
-        "jobTitle": "Legacy Web Representative",
-        "department": "Kids",
+        "name": "Therese83",
+        "company": "Okuneva - Hudson",
+        "jobTitle": "Future Accounts Director",
+        "department": "Clothing",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "65",
-        "name": "Nico_Moore",
-        "company": "Yost - Medhurst",
-        "jobTitle": "Human Identity Specialist",
-        "department": "Clothing",
-        "activeStatus": false,
-        "avatarPath": "firstPath"
+        "name": "Gideon.Block37",
+        "company": "Jaskolski - Paucek",
+        "jobTitle": "Principal Implementation Planner",
+        "department": "Electronics",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "66",
-        "name": "Amari31",
-        "company": "O'Conner and Sons",
-        "jobTitle": "Human Infrastructure Officer",
-        "department": "Shoes",
+        "name": "Itzel_Schinner",
+        "company": "Considine - Morar",
+        "jobTitle": "Principal Paradigm Consultant",
+        "department": "Health",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "67",
-        "name": "Gillian0",
-        "company": "Schoen, Ankunding and Kling",
-        "jobTitle": "National Creative Analyst",
-        "department": "Industrial",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Tyrese_Franey4",
+        "company": "Ratke, Feest and Barton",
+        "jobTitle": "Lead Applications Facilitator",
+        "department": "Health",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "68",
-        "name": "Josue_Bogan",
-        "company": "Corwin - Littel",
-        "jobTitle": "Principal Configuration Strategist",
-        "department": "Music",
+        "name": "Velma.Erdman",
+        "company": "Mertz - West",
+        "jobTitle": "International Operations Designer",
+        "department": "Home",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "69",
-        "name": "Alda12",
-        "company": "Lubowitz, Bernier and Fritsch",
-        "jobTitle": "District Branding Director",
-        "department": "Beauty",
+        "name": "Amie61",
+        "company": "Romaguera - Smith",
+        "jobTitle": "Chief Paradigm Officer",
+        "department": "Games",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "70",
-        "name": "Nedra83",
-        "company": "Simonis Group",
-        "jobTitle": "Investor Intranet Officer",
-        "department": "Computers",
+        "name": "Peter.Pollich62",
+        "company": "Dach - Sipes",
+        "jobTitle": "Future Usability Associate",
+        "department": "Sports",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "71",
-        "name": "Delilah31",
-        "company": "Bednar - Nikolaus",
-        "jobTitle": "International Marketing Agent",
-        "department": "Automotive",
+        "name": "Shaniya_Kulas6",
+        "company": "Heidenreich and Sons",
+        "jobTitle": "Regional Quality Agent",
+        "department": "Kids",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "72",
-        "name": "Efren.Zboncak1",
-        "company": "Larkin, Rowe and Simonis",
-        "jobTitle": "Forward Accountability Engineer",
-        "department": "Games",
+        "name": "German45",
+        "company": "Lesch and Sons",
+        "jobTitle": "Corporate Directives Producer",
+        "department": "Movies",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "73",
-        "name": "Javon.Hintz",
-        "company": "Spinka and Sons",
-        "jobTitle": "Principal Web Coordinator",
-        "department": "Books",
+        "name": "Carmel85",
+        "company": "Wilderman, Hickle and Haag",
+        "jobTitle": "Lead Assurance Associate",
+        "department": "Baby",
         "activeStatus": true,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "74",
-        "name": "Halle19",
-        "company": "Cummings and Sons",
-        "jobTitle": "Product Response Agent",
-        "department": "Toys",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Sabryna48",
+        "company": "Goldner, Tillman and Schinner",
+        "jobTitle": "Global Tactics Specialist",
+        "department": "Automotive",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "75",
-        "name": "Jabari46",
-        "company": "Huel, Zieme and Kemmer",
-        "jobTitle": "Direct Quality Supervisor",
-        "department": "Sports",
-        "activeStatus": true,
-        "avatarPath": "secondPath"
+        "name": "Adrienne.Jaskolski",
+        "company": "Wisozk, Shields and Johnson",
+        "jobTitle": "Forward Metrics Assistant",
+        "department": "Outdoors",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "76",
-        "name": "Juvenal_Strosin96",
-        "company": "Hartmann, Maggio and Swift",
-        "jobTitle": "Senior Applications Strategist",
-        "department": "Home",
+        "name": "Ebony_Green55",
+        "company": "Kerluke - Mayer",
+        "jobTitle": "Principal Interactions Strategist",
+        "department": "Grocery",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "77",
-        "name": "Jeremie_Herzog87",
-        "company": "Schimmel - VonRueden",
-        "jobTitle": "Legacy Configuration Facilitator",
-        "department": "Grocery",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Lisandro.Stracke47",
+        "company": "Koepp, Champlin and Schmeler",
+        "jobTitle": "International Optimization Associate",
+        "department": "Sports",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "78",
-        "name": "Joanny38",
-        "company": "Mertz, Ziemann and Koepp",
-        "jobTitle": "Senior Marketing Administrator",
-        "department": "Sports",
+        "name": "Maureen_Greenfelder87",
+        "company": "Bauch, Kiehn and Bashirian",
+        "jobTitle": "Corporate Paradigm Agent",
+        "department": "Home",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "79",
-        "name": "Johnathon47",
-        "company": "Hudson and Sons",
-        "jobTitle": "Customer Brand Liaison",
-        "department": "Books",
+        "name": "Douglas.Turcotte30",
+        "company": "Goodwin, Robel and Terry",
+        "jobTitle": "Senior Security Analyst",
+        "department": "Computers",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "80",
-        "name": "Zion_Kunze",
-        "company": "Hilll - Sanford",
-        "jobTitle": "Direct Identity Officer",
+        "name": "Breanna_Jacobi38",
+        "company": "Vandervort Group",
+        "jobTitle": "Investor Metrics Agent",
         "department": "Health",
-        "activeStatus": false,
-        "avatarPath": "secondPath"
+        "activeStatus": true,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "81",
-        "name": "Felipa.Conn9",
-        "company": "VonRueden, Treutel and Nader",
-        "jobTitle": "International Identity Director",
-        "department": "Electronics",
+        "name": "Maryjane_Kunde77",
+        "company": "Will - Heller",
+        "jobTitle": "Corporate Directives Technician",
+        "department": "Toys",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "82",
-        "name": "German97",
-        "company": "Rolfson, Bogan and Schmeler",
-        "jobTitle": "Investor Creative Designer",
-        "department": "Games",
+        "name": "Moses.Goodwin85",
+        "company": "Toy, Howe and McLaughlin",
+        "jobTitle": "Forward Creative Producer",
+        "department": "Garden",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "83",
-        "name": "Rigoberto_Fadel",
-        "company": "Wisoky - Wisozk",
-        "jobTitle": "International Tactics Assistant",
-        "department": "Grocery",
+        "name": "Stacy90",
+        "company": "Wehner - Roberts",
+        "jobTitle": "International Mobility Administrator",
+        "department": "Tools",
         "activeStatus": true,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "84",
-        "name": "Derick.Friesen25",
-        "company": "Graham, Bins and Heidenreich",
-        "jobTitle": "National Response Analyst",
-        "department": "Grocery",
-        "activeStatus": true,
-        "avatarPath": "secondPath"
+        "name": "Ryann.Prohaska",
+        "company": "Upton - Friesen",
+        "jobTitle": "Regional Communications Planner",
+        "department": "Movies",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "85",
-        "name": "Jarred.Okuneva",
-        "company": "Satterfield and Sons",
-        "jobTitle": "Product Marketing Planner",
-        "department": "Home",
+        "name": "Ashlee88",
+        "company": "Leannon and Sons",
+        "jobTitle": "Forward Integration Producer",
+        "department": "Games",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "86",
-        "name": "Nona.OReilly",
-        "company": "Hickle - Schinner",
-        "jobTitle": "Central Metrics Administrator",
-        "department": "Sports",
+        "name": "Macy_Lindgren2",
+        "company": "Jakubowski Group",
+        "jobTitle": "Internal Creative Specialist",
+        "department": "Clothing",
         "activeStatus": true,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "87",
-        "name": "Blair_Bruen62",
-        "company": "Kerluke - Hoppe",
-        "jobTitle": "Central Quality Executive",
-        "department": "Beauty",
+        "name": "Simone.Trantow",
+        "company": "Reichert - Fahey",
+        "jobTitle": "Human Optimization Coordinator",
+        "department": "Baby",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "88",
-        "name": "Hettie30",
-        "company": "Kutch, Von and Monahan",
-        "jobTitle": "Corporate Data Supervisor",
-        "department": "Music",
-        "activeStatus": true,
-        "avatarPath": "secondPath"
+        "name": "Hilton32",
+        "company": "MacGyver Inc",
+        "jobTitle": "Product Brand Representative",
+        "department": "Clothing",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "89",
-        "name": "Jessyca86",
-        "company": "Schiller Inc",
-        "jobTitle": "Central Integration Executive",
-        "department": "Kids",
-        "activeStatus": false,
-        "avatarPath": "firstPath"
+        "name": "Pascale_Nader53",
+        "company": "Hartmann, Rosenbaum and Bernhard",
+        "jobTitle": "District Creative Liaison",
+        "department": "Automotive",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "90",
-        "name": "Dovie.Schroeder48",
-        "company": "Hammes Inc",
-        "jobTitle": "Internal Web Engineer",
-        "department": "Kids",
-        "activeStatus": false,
-        "avatarPath": "firstPath"
+        "name": "Myron_Padberg-Olson66",
+        "company": "Kuhic, Sporer and Schimmel",
+        "jobTitle": "Principal Program Architect",
+        "department": "Industrial",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "91",
-        "name": "Davonte_Fadel13",
-        "company": "Veum - Tillman",
-        "jobTitle": "Product Directives Analyst",
-        "department": "Outdoors",
+        "name": "Marlen_Spencer",
+        "company": "Gislason, Ebert and Dickinson",
+        "jobTitle": "Legacy Metrics Agent",
+        "department": "Electronics",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "92",
-        "name": "Deon1",
-        "company": "Krajcik LLC",
-        "jobTitle": "National Directives Consultant",
-        "department": "Health",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Dorris_Ruecker37",
+        "company": "Schulist - Runte",
+        "jobTitle": "Future Security Technician",
+        "department": "Tools",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "93",
-        "name": "Nyah_Koss77",
-        "company": "Gulgowski - Zulauf",
-        "jobTitle": "Future Tactics Analyst",
-        "department": "Garden",
+        "name": "Ayden7",
+        "company": "Heathcote Inc",
+        "jobTitle": "Corporate Brand Architect",
+        "department": "Music",
         "activeStatus": false,
-        "avatarPath": "firstPath"
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "94",
-        "name": "Lilla.Jacobi",
-        "company": "Wilderman Group",
-        "jobTitle": "Central Research Technician",
-        "department": "Shoes",
-        "activeStatus": false,
-        "avatarPath": "secondPath"
+        "name": "Michaela.Grady",
+        "company": "Lind - Rolfson",
+        "jobTitle": "Corporate Paradigm Orchestrator",
+        "department": "Games",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "95",
-        "name": "Kody89",
-        "company": "Hilpert, Kshlerin and Morissette",
-        "jobTitle": "International Markets Planner",
-        "department": "Outdoors",
-        "activeStatus": true,
-        "avatarPath": "firstPath"
+        "name": "Sunny42",
+        "company": "Crooks, Koch and Stanton",
+        "jobTitle": "International Creative Assistant",
+        "department": "Toys",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "96",
-        "name": "Gilbert32",
-        "company": "Quitzon - Lind",
-        "jobTitle": "Forward Markets Orchestrator",
-        "department": "Kids",
+        "name": "Lizzie_Brown",
+        "company": "Yost - Veum",
+        "jobTitle": "Dynamic Communications Facilitator",
+        "department": "Industrial",
         "activeStatus": false,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "97",
-        "name": "Alisha92",
-        "company": "Johnson - Haag",
-        "jobTitle": "Direct Solutions Director",
-        "department": "Computers",
-        "activeStatus": false,
-        "avatarPath": "firstPath"
+        "name": "Paxton40",
+        "company": "Zboncak LLC",
+        "jobTitle": "Chief Mobility Specialist",
+        "department": "Health",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "98",
-        "name": "Jackeline_Fritsch",
-        "company": "Schultz - Larson",
-        "jobTitle": "Regional Creative Representative",
-        "department": "Games",
-        "activeStatus": true,
-        "avatarPath": "secondPath"
+        "name": "Alison_Pagac",
+        "company": "Cronin, Monahan and Klocko",
+        "jobTitle": "Principal Intranet Consultant",
+        "department": "Outdoors",
+        "activeStatus": false,
+        "avatarPath": "./src/assets/female.jpg"
     },
     {
         "id": "99",
-        "name": "Vickie_Larson",
-        "company": "Upton, VonRueden and Howe",
-        "jobTitle": "Dynamic Implementation Agent",
-        "department": "Garden",
-        "activeStatus": false,
-        "avatarPath": "secondPath"
+        "name": "Alfonzo96",
+        "company": "O'Keefe LLC",
+        "jobTitle": "Principal Operations Supervisor",
+        "department": "Games",
+        "activeStatus": true,
+        "avatarPath": "./src/assets/male.jpg"
     },
     {
         "id": "100",
-        "name": "Bert_Fahey38",
-        "company": "Davis - VonRueden",
-        "jobTitle": "Chief Creative Associate",
-        "department": "Tools",
+        "name": "Alexandrea99",
+        "company": "Schinner and Sons",
+        "jobTitle": "Regional Implementation Liaison",
+        "department": "Toys",
         "activeStatus": true,
-        "avatarPath": "secondPath"
+        "avatarPath": "./src/assets/male.jpg"
     }
 ]

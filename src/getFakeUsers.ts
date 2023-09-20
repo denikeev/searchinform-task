@@ -19,7 +19,7 @@ export const createFakeUser = (): User => {
     jobTitle: faker.person.jobTitle(),
     department: faker.commerce.department(),
     activeStatus: faker.datatype.boolean(),
-    avatarPath: faker.helpers.arrayElement(['firstPath', 'secondPath']),
+    avatarPath: faker.helpers.arrayElement(['./src/assets/male.jpg', './src/assets/female.jpg']),
   };
 };
 
