@@ -12,6 +12,7 @@ const currentDir = __dirname.split('/').slice(-1).join();
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: `/${currentDir}/`,
   plugins: [
     vue(),
   ],
@@ -19,14 +20,5 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
-  },
-  build: {
-    rollupOptions: {
-      output: {
-        assetFileNames: `${currentDir}/assets/[name]-[hash][extname]`,
-        chunkFileNames: `${currentDir}/assets/[name].js`,
-        entryFileNames: `${currentDir}/assets/[name]-[hash].js`
-      }
-    },
   },
 })

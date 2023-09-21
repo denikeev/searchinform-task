@@ -1,5 +1,6 @@
 # Users list test task
 
+[Test assignment](https://github.com/denikeev/searchinform-task/blob/main/public/TypeScript-test-task.pdf)
 ## About
 The application is written in TypeScript with Vue 3 (Composition API). Vite is used as a builder, ESLint is engaged in static code analysis.
 
