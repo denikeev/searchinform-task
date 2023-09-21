@@ -1,15 +1,6 @@
 import { faker } from '@faker-js/faker';
 import { uniqueId } from 'lodash';
-
-export type User = {
-  id: string;
-  name: string;
-  company: string;
-  jobTitle: string;
-  department: string;
-  activeStatus: boolean;
-  avatarPath: string;
-}
+import { type User } from './types/User';
 
 export const createFakeUser = (): User => {
   return {

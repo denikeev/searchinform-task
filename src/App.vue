@@ -1,14 +1,28 @@
 <script setup lang="ts">
-import { ref } from 'vue';
+
+import { ref, onMounted } from 'vue';
 import fakeUsers from './fakeUsers.json';
-import getFakeUsers, { type User } from './getFakeUsers.js';
+import { type User } from './types/User';
 
-// console.log(getFakeUsers(100));
 const selectedUser = ref<null | User>(null);
+const initialUsersCount = 40;
+const visibleUsers = ref(fakeUsers.slice(0, initialUsersCount));
 
-const selectUser = (user: User) => {
-  selectedUser.value = user;
+const loadMore = () => {
+  const showedUsersCount = visibleUsers.value.length;
+  const newUsers = fakeUsers.slice(showedUsersCount, showedUsersCount + initialUsersCount);
+  visibleUsers.value.push(...newUsers);
 }
+
+onMounted(() => {
+  const usersListElement = document.querySelector('.users__list');
+
+  usersListElement?.addEventListener('scroll', () => {
+    if (usersListElement.scrollTop + usersListElement.clientHeight >= usersListElement.scrollHeight) {
+      loadMore();
+    }
+  })
+});
 </script>
 
 <template>
@@ -19,8 +33,13 @@ const selectUser = (user: User) => {
     </header>
     <div class="users" :class="{'users_selected': selectedUser}">
       <ul class="users__list">
-        <li v-for="user in fakeUsers" :key="user.id" :class="{'users__item-active': user.id === selectedUser?.id}">
-          <button @click="selectUser(user)" class="users__item-btn" type="button">
+        <li
+          v-for="user in visibleUsers"
+          :key="user.id"
+          v-memo="[user.id === selectedUser?.id]"
+          :class="{'users__item-active': user.id === selectedUser?.id}"
+        >
+          <button @click="selectedUser = user" class="users__item-btn" type="button">
             <img alt="person" src="./assets/person-fill.svg" width="24" height="24" />
             <span>{{ user.name }}</span>
           </button>
