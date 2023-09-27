@@ -5,7 +5,7 @@
 The application is written in TypeScript with Vue 3 (Composition API). Vite is used as a builder, ESLint is engaged in static code analysis.
 
 ## Features:
-* optimized infinite scrolling
+* rendering large datasets (~1000k)
 * responsive design
 * custom styles
 ## Dependencies

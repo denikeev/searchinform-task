@@ -16,7 +16,8 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "vue": "^3.3.4"
+    "vue": "^3.3.4",
+    "vue-virtual-scroller": "^2.0.0-beta.8"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.0.2",
