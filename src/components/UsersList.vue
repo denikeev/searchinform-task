@@ -12,7 +12,7 @@ const selectedUser = ref<null | User>(null);
 const unselectUser = () => { selectedUser.value = null };
 
 onMounted(async () => {
-  await fetch("../searchinform-task/src/fake-users.min.json")
+  await fetch("./fake-users.min.json")
   .then(res => res.json())
   .then(data => {
     fakeUsers.value = data;
